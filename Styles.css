@@ -1,0 +1,90 @@
+/* Global styles */
+
+body {
+
+  font-family: Arial, sans-serif;
+
+}
+
+/* Header styles */
+
+header {
+
+  background-color: #333;
+
+  color: #fff;
+
+  padding: 10px;
+
+}
+
+/* Loading animation styles */
+
+.loading-animation {
+
+  /* Implement your loading animation styles here */
+
+}
+
+/* User authentication styles */
+
+.user-authentication {
+
+  /* Implement your signup and login form styles here */
+
+}
+
+/* Book list styles */
+
+.book-list {
+
+  /* Implement your book list styles here */
+
+}
+
+/* Pagination styles */
+
+.pagination {
+
+  /* Implement your pagination styles here */
+
+}
+
+/* Search bar styles */
+
+.search-bar {
+
+  /* Implement your search bar styles here */
+
+}
+
+/* Book availability and filtering styles */
+
+.book-filters {
+
+  /* Implement your book availability and filtering styles here */
+
+}
+
+/* Cart styles */
+
+.cart {
+
+  /* Implement your cart styles here */
+
+}
+
+/* Footer styles */
+
+footer {
+
+  background-color: #333;
+
+  color: #fff;
+
+  padding: 10px;
+
+  text-align: center;
+
+}
+
